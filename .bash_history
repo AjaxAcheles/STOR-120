@@ -12,3 +12,12 @@ git push origin main
 git add .
 git commit -m "Second commit - forgot to add one thing"
 git push origin main
+git fetch
+git status
+git add .
+git status
+git commit -a -m "added new files"
+git push origin main
+git push origin main
+git commit -a -m "added new files"
+git push origin main
