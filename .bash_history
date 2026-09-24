@@ -21,3 +21,15 @@ git push origin main
 git push origin main
 git commit -a -m "added new files"
 git push origin main
+git fetch
+git status
+git add .
+git commit -m "added new files"
+git pull origin main
+git add .
+git status
+git add .
+git commit -m "add new files"
+git commit -a -m "add new files"
+git push origin main
+git push origin main
