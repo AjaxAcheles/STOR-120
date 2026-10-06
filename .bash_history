@@ -33,3 +33,11 @@ git commit -m "add new files"
 git commit -a -m "add new files"
 git push origin main
 git push origin main
+git status
+git fetch
+git status
+git pull origin main
+git add .
+git commit -m "added new files"
+git push origin main
+git push origin main
